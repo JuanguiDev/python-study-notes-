@@ -1,0 +1,6 @@
+Mi nombre es Juan
+Mi apellido es Lopera
+22 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Java
+Y Swift
